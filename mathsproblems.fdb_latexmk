@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1488627266 "mathsproblems.tex" "mathsproblems.pdf" "mathsproblems" 1488627267
+["pdflatex"] 1488828672 "mathsproblems.tex" "mathsproblems.pdf" "mathsproblems" 1488828673
   "c:/texlive/2016/texmf-dist/fonts/map/fontname/texfonts.map" 1488536750 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "c:/texlive/2016/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1488535587 1004 54797486969f23fa377b128694d548df ""
   "c:/texlive/2016/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1488535587 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -59,11 +59,13 @@
   "c:/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1488540503 2371387 e36ba2c3c2ee15e5c2b70cb15bccc16f ""
   "c:/texlive/2016/texmf-var/web2c/pdftex/pdflatex.fmt" 1488540597 3870138 7ab88f5a78efeb6ccd553cf01d1ea8c1 ""
   "c:/texlive/2016/texmf.cnf" 1488540478 673 4ae7b2f49cee444c5343a45b5d0f169c ""
+  "images/annulus.jpg" 1488828000 30736 3acab0132f9c88782ba1270c2a4fb56c ""
+  "images/annulus2.jpg" 1488828023 39272 e325bea3681402bd1ca1ed1642552e6e ""
   "images/handshake.jpg" 1488545472 23743 9082c98def7f9bd193456266e7d0aedc ""
   "images/wine.jpg" 1488486479 193822 9280baef03837624549e29aaf4a56599 ""
-  "mathsproblems.aux" 1488627267 1908 38e8d0720d5e10ef0ce37fd6a4c161b2 ""
-  "mathsproblems.tex" 1488627264 8957 701b73a0a05edeeae9885f793bc123bd ""
+  "mathsproblems.aux" 1488828673 2699 c107c14acf15e2a5034f852ad8ab26f1 ""
+  "mathsproblems.tex" 1488828670 12143 6ea52de418854196e3db68c0e15be495 ""
   (generated)
+  "mathsproblems.pdf"
   "mathsproblems.log"
   "mathsproblems.aux"
-  "mathsproblems.pdf"
